@@ -57,5 +57,3 @@ Por fim mas não menos importante, o cálculo do preço total. Note que o cálcu
 ## Extra
 
 Agora que você já fez os pontos principais da entrega, sinta-se à vontade para criar mais tipos de filtros e deixar sua entrega ainda mais dinâmica.
-
-# project-list-product
